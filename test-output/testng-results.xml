@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19328" started-at="2018-07-05T11:58:39Z" finished-at="2018-07-05T11:58:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19328" started-at="2018-07-05T11:58:39Z" finished-at="2018-07-05T11:58:58Z">
+      <class name="interviewPreps.Facebooklogotest">
+        <test-method status="PASS" signature="fbstart()[pri:0, instance:interviewPreps.Facebooklogotest@7a9273a8]" name="fbstart" duration-ms="8977" started-at="2018-07-05T11:58:39Z" finished-at="2018-07-05T11:58:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbstart -->
+        <test-method status="PASS" signature="omayotest()[pri:0, instance:interviewPreps.Facebooklogotest@7a9273a8]" name="omayotest" duration-ms="10314" started-at="2018-07-05T11:58:48Z" finished-at="2018-07-05T11:58:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- omayotest -->
+      </class> <!-- interviewPreps.Facebooklogotest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

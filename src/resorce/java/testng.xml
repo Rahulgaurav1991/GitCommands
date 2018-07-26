@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="KrossovertestSuite">
+  <test thread-count="5" name="krossoverTest">
+  
+    <classes>
+      <class name="interviewPreps.Facebooklogotest"/>
+      <class name="krossover.QA.test.Firsttest"/>
+      <class name="TestNgDemo.Basics"/>
+      <class name="krossover.QA.test.Lemo"/>
+      <class name="interviewPreps.EventDriver"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
