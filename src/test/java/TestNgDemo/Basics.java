@@ -20,7 +20,7 @@ public class Basics {
 	}
 	@BeforeTest
 	public void startchrome() {
-		System.out.println("Set the property for testtt");
+		System.out.println("Set the properties for testtt");
 	}
 	@BeforeClass
 	public void Login() {
